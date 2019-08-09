@@ -102,4 +102,4 @@ Use the classic Five Whys tool to complete the 3L5W forms. If properly used the 
 
 Remember your customer wants to be protected from your non-conformance and has an interest in you evolving your systems. That is the purpose of the 3L5W requirement. Meet this purpose and everyone should be happy regardless if you use detect and sort or the more powerful elimination of variance from within your manufacturing process.
 
-Soure/for more info : http://cart.critical-thinking.com/three-legged-five-whys
+Soure for more info : http://cart.critical-thinking.com/three-legged-five-whys
